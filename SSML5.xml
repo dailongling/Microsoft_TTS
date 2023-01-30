@@ -1,0 +1,19 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+    <voice name="zh-CN-YunxiNeural">
+        <prosody rate="0%" pitch="0%">
+        这个是云希的声音。历史上第11次参加世界杯的美国队阵中，除了队长普利西奇、前巴萨边卫德斯特等人之外，最受关注的无疑是利比里亚总统、前金球奖得主乔治·维阿的儿子蒂莫西·维阿。如今，只有22岁的小维阿替父亲实现踏上世界杯赛场的愿望。小维阿2000年2月出生在美国纽约，彼时他的父亲刚刚从AC米兰队租借加盟切尔西队。青少年时，小维阿在父亲的成名之地——巴黎圣日耳曼队进行训练，一度被视为俱乐部的希望之星。但因为内马尔、姆巴佩等巨星的存在，2019年7月，小维阿以1000万欧元的转会费加盟里尔队。在本场比赛进球之后，小维阿不仅实现了父亲登上世界杯舞台的夙愿，也在比赛中斩获进球。这一刻，足球的传承无疑让很多观战球迷动容万分！
+        </prosody>
+    </voice>
+    <voice name="zh-CN-YunyeNeural">
+        <prosody rate="0%" pitch="0%">
+        这个是云野的声音。历史上第11次参加世界杯的美国队阵中，除了队长普利西奇、前巴萨边卫德斯特等人之外，最受关注的无疑是利比里亚总统、前金球奖得主乔治·维阿的儿子蒂莫西·维阿。
+        </prosody>
+    </voice>
+    <voice name="zh-CN-YunyeNeural">
+        <mstts:express-as style="angry">
+        <prosody rate="0%" pitch="0%">
+        这个是云野的愤怒的声音。历史上第11次参加世界杯的美国队阵中，除了队长普利西奇、前巴萨边卫德斯特等人之外，最受关注的无疑是利比里亚总统、前金球奖得主乔治·维阿的儿子蒂莫西·维阿。
+        </prosody>
+        </mstts:express-as>
+    </voice>
+</speak>
